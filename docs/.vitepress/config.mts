@@ -36,6 +36,7 @@ export default defineConfig({
                     { text: 'Quiz 数据看板', link: '/quiz-landing-dashboard' },
                     { text: '学校翻译管理', link: '/school-translation-management' },
                     { text: '前端开发', link: '/frontend-developer' },
+                    { text: '本地接口调试', link: '/local-interface-debug' },
                     { text: '实习总结回顾', link: '/internship-summary' },
 
 
