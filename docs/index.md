@@ -67,6 +67,9 @@ hero:
     - theme: alt
       text: 主动思考
       link: /active-thinking
+    - theme: alt
+      text: 代理模式
+      link: /proxy
 
 features:
   - title: 简洁高效
