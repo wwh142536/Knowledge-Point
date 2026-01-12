@@ -39,6 +39,7 @@ export default defineConfig({
                     { text: '本地接口调试', link: '/local-interface-debug' },
                     { text: '正向代理 vs 反向代理', link: '/proxy' },
                     { text: '实习总结回顾', link: '/internship-summary' },
+                    { text: '前端监控', link: '/frontend-monitoring' },
 
 
                 ]
